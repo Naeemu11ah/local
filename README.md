@@ -1,7 +1,5 @@
 # This Readme file is created in local repo
-
-Wante to check it's features.
+Assalamoalaikom, i'm Naeem...
 
 # new one
-
-nothing
+Nothing to say
