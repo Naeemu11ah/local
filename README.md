@@ -1,5 +1,5 @@
 # This Readme file is created in local repo
-Assalamoalaikom, i'm Naeem...
+Hello everyOne, i am a human...
 
 # new one
 Nothing to say
